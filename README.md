@@ -1,2 +1,2 @@
-# exerciciosIsabela
-Ajuda em Fundamentos de programação
+# exercicios basicos de Fundamentos de prograação
+Ajuda em Fundamentos de programação (PYTHON)
